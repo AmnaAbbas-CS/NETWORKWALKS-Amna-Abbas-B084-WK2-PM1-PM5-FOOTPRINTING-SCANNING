@@ -1,0 +1,2 @@
+# NETWORKWALKS-Amna-Abbas-B084-WK2-PM1-PM5-FOOTPRINTING-SCANNING
+week2 task completed
