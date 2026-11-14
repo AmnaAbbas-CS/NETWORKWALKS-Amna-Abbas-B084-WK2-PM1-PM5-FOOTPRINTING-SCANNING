@@ -73,7 +73,7 @@ whois networkwalks.com
 nslookup networkwalks.com
 ```
 
-![nslookup ip](screenshots/B2-nslookup-ip.png)
+![nslookup ip](screenshots/B2-ns-lookup-ip.png)
 
 **What I found:** The IP address is 192.232.216.135.
 
